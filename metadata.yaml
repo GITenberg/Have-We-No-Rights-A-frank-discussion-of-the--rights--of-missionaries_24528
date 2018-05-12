@@ -1,0 +1,26 @@
+_repo: Have-We-No-Rights-A-frank-discussion-of-the--rights--of-missionaries_24528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williamson, Mabel
+    gutenberg_agent_id: '26555'
+    url: http://www.gutenberg.org/2009/agents/26555
+description: ''
+gutenberg_issued: '2008-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries'
+- !lcsh 'Missions -- China'
+- !lcc 'BV'
+- !lcsh 'Pamphlets'
+title: Have We No Rights? A frank discussion of the "rights" of missionaries
+url: http://www.gutenberg.org/ebooks/24528
